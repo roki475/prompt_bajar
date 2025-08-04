@@ -5,8 +5,7 @@
       "imageUrl": "https://raw.githubusercontent.com/roki475/prompt_bajar/main/assets/images/image1.jpg",
       "description": "Beautiful portrait image",
       "category": "Portrait",
-      "prompt": "Professional portrait photography with soft lighting, high resolution,
-      detailed facial features, artistic composition, cinematic quality"
+      "prompt": "Professional portrait photography with soft lighting, high resolution, detailed facial features, artistic composition, cinematic quality"
     },
     {
       "id": "img2", 
