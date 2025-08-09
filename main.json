@@ -216,6 +216,34 @@
       "description": "zdgh",
       "category": "New",
       "prompt": "4K hyper-realistic ultra-detailed full-body cinematic portrait of a confident and stylish 25-year-old man sitting in a relaxed and dominant pose on a modern wooden chair. He wears a luxurious patterned dark green velvet blazer over an unbuttoned white shirt, revealing part of his chest and layered bracelets. He pairs this with black tailored pants, black Chelsea boots, and stylish sunglasses. His thick beard and voluminous dark hair are perfectly groomed. The backdrop is a smooth matte dark blue studio wall with dramatic soft lighting and subtle shadows. The image is composed in a vertical 9:16 aspect ratio."
+    },
+    {
+      "id": "img30", 
+      "imageUrl": "https://raw.githubusercontent.com/roki475/prompt_bajar/main/assets/images/7c24a378-ed62-4a9b-bdf9-68de55c2ec97.jpg",
+      "description": "zdgh",
+      "category": "New",
+      "prompt": "A young man sits relaxed on the terrace of a Middle Eastern-style restaurant, with a large domed mosque in the background. He has wavy black hair, an open white shirt, a navy jacket, and round sunglasses. He drinks orange juice while leaning back in a rattan chair. On the table is a local breakfast: rendang, bika ambon, cucut cake, sweet potato, and honey. The warm morning light illuminates his face in a cinematic way."
+    },
+    {
+      "id": "img31", 
+      "imageUrl": "https://raw.githubusercontent.com/roki475/prompt_bajar/main/assets/images/6102609002870458600.jpg",
+      "description": "zdgh",
+      "category": "New",
+      "prompt": "A stylish young man leaning casually against a graffiti-covered wall in an urban alley. He is wearing a loose beige oversized T-shirt, black wide-leg pants with white stitching, and clean white sneakers. His accessories include a silver wristwatch, a simple silver chain necklace, and an earring. The lighting is warm and golden, casting dramatic shadows and highlighting the contours of his face and clothes. The background is filled with colorful and layered street art,"
+    },
+    {
+      "id": "img32", 
+      "imageUrl": "https://raw.githubusercontent.com/roki475/prompt_bajar/main/assets/images/1a6ad6d3-b097-4812-b6f8-5b461319f4d0.jpg",
+      "description": "zdgh",
+      "category": "New",
+      "prompt": "Low-angle full-body cinematic shot: young man in oversized colorblock windcheater, white tee (red Nike Swoosh), black cargo joggers, white Air Force 1s. Stands by rain-soaked street signals, tram behind, hands in pockets, reflection in puddle. Moody evening, bokeh traffic, natural light, sharp focus, vertical 8K."
+    },
+    {
+      "id": "img33", 
+      "imageUrl": "",
+      "description": "zdgh",
+      "category": "New",
+      "prompt": ""
     }
   ]
 }
